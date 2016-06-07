@@ -1,2 +1,6 @@
 # estimating-arch-lengths
-I would be determining length of an arch of a fort using its photograph. The same procedure can be extended to others too
+for this you need to know the scaling factor for that photo and have some knowledge about least squares approximation
+
+code is written in python
+
+ a pdf which explains each step in detail has been attatched
