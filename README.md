@@ -3,4 +3,4 @@ for this you need to know the scaling factor for that photo and have some knowle
 
 code is written in python
 
- a pdf which explains each step in detail has been attatched
+ a pdf which explains each step in detail has been attatched in the issues
